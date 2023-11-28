@@ -1,6 +1,8 @@
 #include <stdio.h>
+#include <stdlib.h>
 
 int main(void){
+    system("clear");
     int a = 20;
     int b = -5;
 
